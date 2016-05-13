@@ -20,16 +20,14 @@ show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    true
 ajaxify_contact_form: true
-enable_mathjax: false
-extended_fonts: false
-enable_anchorjs: false
+enable_mathjax: true
+extended_fonts: true
+enable_anchorjs: true
 
 # Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: luizpicolo
 
 # Facebook Comments plugin
-# (leave blank to disable Facebook Comments, otherwise set it to true)
 facebook_comments:
 facebook_appid:
 facebook_comments_number: 10
@@ -51,21 +49,20 @@ flattr_button:
 
 # Post sharing icons
 show_sharing_icons: true
-# Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: true
-share_googleplus: false
+share_googleplus: true
 share_linkedin: false
-share_digg: false
-share_tumblr: false
-share_reddit: false
-share_stumbleupon: false
-share_hackernews: false
+share_digg: true
+share_tumblr: true
+share_reddit: true
+share_stumbleupon: true
+share_hackernews: true
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Old'
+    newer:
+    older:
   share_buttons:
     text:         'Compartilhe esta postagem!'
     facebook:     'Compartilhar no Facebook'
@@ -96,10 +93,11 @@ text:
   og_locale: 'pt_BR'
 
 # Build settings
-markdown:     kramdown
+markdown: kramdown
 redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+  extensions: ["smart", "no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
 permalink: /:year/:month/:day/:slug/
+highlighter: true
 excerpt_separator: <!--more-->
 paginate: 100
 sass:

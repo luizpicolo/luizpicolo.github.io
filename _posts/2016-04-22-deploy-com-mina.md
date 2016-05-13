@@ -1,13 +1,20 @@
-# Usando o Mina para deploys de aplicações Ruby on Rails
+---
+layout: post
+title:  "Usando o Mina para deploys de aplicações Ruby on Rails"
+date:   2016-04-22 07:11:14 -0400
+categories: css html css3 html5
+---
 
-[Mina](http://nadarei.co/mina/) é uma ferramenta que permite criar e executar scripts para o gerenciamento de implantações em servidores via SSH. Ao contrário de outras ferramentas semelhantes, como o [Capistrano](http://capistranorb.com/) ou [Vlad](https://github.com/seattlerb/vlad), Mina cria somente uma sessão SSH para cada deploy em execução, tornando seu deploy mais eficiente. 
+[Mina](http://nadarei.co/mina/) é uma ferramenta que permite criar e executar scripts para o gerenciamento de implantações em servidores via SSH. Ao contrário de outras ferramentas semelhantes, como o [Capistrano](http://capistranorb.com/) ou [Vlad](https://github.com/seattlerb/vlad), Mina cria somente uma sessão SSH para cada deploy em execução, tornando seu deploy mais eficiente.<!--more-->
 Mina é escrito em Ruby, porém, não se limita apenas a esta linguagem, podendo ser usando para qualquer tipo de implantação, possuindo apenas e tão somente como restriçao o uso de SSH no servidor.
 
 ## Primeiro passo:
 
 Com o Ruby instalado, podemos instalar o Mina como uma gem normal. Para tanto, use o comando abaixo:
 
-    gem install mina
+```ruby
+gem install mina
+```
 
 ou adicione em seu `Gemfile` e em seguida execute o `bundle install`
 
@@ -163,7 +170,6 @@ Agora, altere as seguintes configurações. Este arquivo foi configurado para ut
 
 No meu caso eu sempre crio um usuário para cada aplicação. Logo, teriamos um usuário chamado `my_app`.
 
-	```ruby
 	# Ruby Version
 	set :ruby_version, '2.2.1'
 
@@ -195,7 +201,7 @@ Após alterada as configurações, salve o arquivos e execute o comando acompanh
 ou
 
     mina staging setup
-	
+
 Após executar o comando você terá algo semelhante a isto;
 
 ![repositorios](https://cdn.rawgit.com/luizpicolo/posts/master/images/mina_directories.png)
@@ -218,10 +224,9 @@ Altere da forma desejada e, por fim, execute o comando:
 ou
 
     mina staging deploy
-	
+
 # Conclusão
 
 Se vocẽ seguiu todos os passos citados acima sua aplicação poderá ser acessada em seu domínio principal. Lembrando que seu servidor deve estar configurado corretamente.
 
 Erros ou melhorias no texto podem ser sugeridos por meio de PRs em [https://github.com/luizpicolo/posts](https://github.com/luizpicolo/posts)
-

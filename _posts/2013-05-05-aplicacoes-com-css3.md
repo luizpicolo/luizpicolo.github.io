@@ -1,17 +1,13 @@
-# Aplicações com CSS3
-
-05/05/2013
-
-Summary
-----
-Para todos aqueles que começaram sua carreira trabalhando com CSS e HTML há alguns anos, sabem muito bem como era complicado a simples tarefa de por bordas arredondadas em um tag. Lembro-em que, em meados de 2011, estava lendo o livro do Maujor - Construindo Sites com CSS e (X)HTML - em que o mesmo ensinava a por bordar arredondas em Divs utilizando imagens. Hoje, está técnica é tida como "gambiarra", porém, era umas das únicas soluções cabíveis para se obter um trabalho com um certo grau de excelência. Outro meio para tal feito era a utilização... 
-
-Body
-----
+---
+layout: post
+title:  "Aplicações com CSS3"
+date:   2013-05-05 07:11:14 -0400
+categories: css html css3 html5
+---
 
 Para todos aqueles que começaram sua carreira trabalhando com CSS e HTML há alguns anos, sabem muito bem como era complicado a simples tarefa de por bordas arredondadas em um tag.
 
-Lembro-em que, em meados de 2011, estava lendo o livro do Maujor - [Construindo Sites com CSS e (X)HTML](http://www.maujor.com/livro/livro.html) - em que o mesmo ensinava a por bordar arredondas em Divs utilizando imagens. Hoje, está técnica é tida como "gambiarra", porém, era umas das únicas soluções cabíveis para se obter um trabalho com um certo grau de excelência. Outro meio para tal feito era a utilização do [JqueryCorner](http://jquery.malsup.com/corner/) muito utilizado por mim, pois era mais rápido .
+Lembro-em que, em meados de 2011, estava lendo o livro do Maujor - [Construindo Sites com CSS e (X)HTML](http://www.maujor.com/livro/livro.html) - em que o mesmo ensinava a por bordar arredondas em Divs utilizando imagens. Hoje, está técnica é tida como "gambiarra", porém, era umas das únicas soluções cabíveis para se obter um trabalho com um certo grau de excelência. Outro meio para tal feito era a utilização <!--more--> do [JqueryCorner](http://jquery.malsup.com/corner/) muito utilizado por mim, pois era mais rápido .
 
 Contudo, o árduo trabalho, além de desgastante, às vezes não era aplicável a todos os navegadores, aqui em especial o Internet Explorer 6, o qual deixava a desejar em vários sentidos, mas que, deveria ter suporte sendo que vários usuários até então o utilizavam
 
@@ -23,12 +19,6 @@ Veja abaixo um desenho feito por mim para testar algumas propriedades do css3
 
 <iframe frameborder="0" id="result-iframe" scrolling="yes" src="http://s.codepen.io/luizpicolo/fullgrid/oGDsH?type=embed&amp;animations=run&amp;forceRefresh=1392563484459" style="height: 468px;" width="100%"></iframe>
 
-
 Este foi feito por nosso amigo Gabriel Medina e ganhou em primeiro lugar o FrontEnd Aracaju
 
 <iframe frameborder="0" id="result-iframe" scrolling="yes" src="http://s.codepen.io/gabrielmedina/fullgrid/tFGmc?type=embed&amp;animations=stop-after-5" style="height: 518px;" width="100%"></iframe>
-
-* CSS
-* HTML
-* CSS3
-* HTML5 
