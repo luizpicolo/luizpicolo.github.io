@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "A resposta que ecoou com mais veemência foi Ruby."
+date:   2014-03-27 07:11:14 -0400
+categories: ruby ruby-on-rails
+---
+
+Trabalhar com frameworks é uma daquelas coisas que, quando você se acostuma a usar a ferramenta corretamente passa a pensar: "como eu trabalhei antes sem isso?". Por este motivo, e por já ter passado por esta situação, criei algumas video aulas para auxiliar e incentivar os iniciantes a adentrar a este mundo e a pensar desta forma. Consequentemente, várias acessos ao meu website se deram devido a estes videos sobre o Framework Codeigntier. Boa didática ou não, recebo às vezes alguns elogios de pessoas dizendo que deram seus primeiros passos com o framework incentivados por meus vídeos. <!--more--> A todos estes o meu muito obrigado. Mas sinceramente, isso pode soar até estranho, não acredito que o Codeigniter seja o melhor framework disponível no mercado na atualidade. Porém, há um concesso que ele é um dos poucos que tem uma curva de aprendizado menos ténue. Todavia, o PHP hoje em dia não é mais meu “carro chefe” e por meio deste texto quero retratar um pouco deste fato.
+
+Após alguns anos trabalhando com PHP, aproximadamente 8 anos, resolvi trocar de “ares” e me dedicar à uma nova linguagem de programação. Como programador, caminhar entre linguagem de programação não é uma tarefa difícil. Nós desenvolvedores de software possuímos esta peculiaridade de poder cambiar as linguagens de forma rápida e simples. Porem, ter o foco em uma linguagem é extremamente necessário quando se visa o mercado de trabalho. E qual seria a minha escolha? Java? Python? Todas são linguagem maravilhosas, mas qual me dará mais produção e futuro em um mercado de trabalho em expansão? A resposta que ecoou com mais veemência foi Ruby.
+
+Ruby é um linguagem maravilhosa e que dispensa apresentações. Foi desenvolvida com foco na semântica e na facilidade. Incorpora vários conceitos como: Agile, TDD, BDD, entre outros, os quais permitem um desenvolvimento rápido do software e com qualidade. Ao criar um novo projeto a maioria do tempo será utilizado fazendo o que mais valoriza o sistema, que são as regras de negócio, layout, usabilidade, modelagem e testes. Aqui vão 8 motivos para você optar por ruby on rails [http://udgwebdev.com/8-motivos-para-estudar-ruby-on-rails/](http://udgwebdev.com/8-motivos-para-estudar-ruby-on-rails/).
+
+Portanto, ruby foi a linguagem que decidi investir meu tempo. E para demonstrar isso coloquei em prática no meu site. Agora, abandonando o PHP e o WordPress, reformulei todo o site utilizando Ruby e o Framework Rails. Como base de dados utilizo o MongoDB. Sei que não é necessário um banco de dados não relacional, mas utilizo ele para fins de conhecimento. Logo, espero que por meio deste post você também possa adentrar a este mundo de agilidade.

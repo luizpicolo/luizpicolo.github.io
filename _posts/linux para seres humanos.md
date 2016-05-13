@@ -1,0 +1,30 @@
+# Linux para Seres Humanos
+
+05/05/2014
+
+**Summary**
+
+Na “grande guerra” que acontece entre os Sistemas Operacionais, há entre os seus “combatentes” indivíduos que acreditam fielmente que o seu sistema é o melhor, o mais confiável e o mais estável. Neste contexto, estão presentes os usuários do Linux, os quais, dentro de seus próprios domínios, tentam definir qual a melhor distribuição. Desta forma, esse pequeno artigo vem de encontro a estes usuários, tentando demonstrar que não basta o sistema ser livre, tem que ser humanizado. 
+
+**Body**
+
+**Texto escrito para publicação no WebInsider**
+
+Na “grande guerra” que acontece entre os Sistemas Operacionais, há entre os seus “combatentes” indivíduos que acreditam fielmente que o seu sistema é o melhor, o mais confiável e o mais estável. Neste contexto, estão presentes os usuários do Linux, os quais, dentro de seus próprios domínios, tentam definir qual a melhor distribuição. Desta forma, esse pequeno artigo vem de encontro a estes usuários, tentando demonstrar que não basta o sistema ser livre, tem que ser humanizado.
+
+Usuário não fanático do Linux a algum tempo, adentrei algumas vezes em discussões sobre qual o melhor Distro. Em alguns destes debates, usuários mais experientes defendiam certos tipos de sistema que realmente eram robustos, mas que, deixavam a desejar ao usuário final. Ao tentar instalar um programa ou mesmo escutar uma música, o indivíduo tinha que ir até o terminal e digital alguns códigos, os quais, eram copiados da internet ou simplesmente passados por usuários que, já a um determinado tempo, utilizavam este sistema em seu dia a dia. Nesta tarefa complicada de baixar e instalar, há os que defendiam que, o verdadeiro usuário deveria saber lidar com as linhas de código, ou até mesmo, saber o básico da programação em C para transpor os problemas que poderiam surgir no futuro.
+
+> A Batalha das Distros”, como é conhecida, coloca os apaixonados pelo Ubuntu em confrontos contra Slackwares, Mandrivas e Debians. Enquanto os primeiros defendem o “Linux para seres humanos”, os outros querem mais é mostrar aos outros que são muito superiores em informática. (HAMANN, Renan: Erro 404: Fanboys malditos.    
+> Disponível em: [http://www.tecmundo.com.br/12563-erro-404-fanboys-malditos.htm. Acesso em: 23 Agosto 2011)]()
+
+Porém, quem vos escreve pensa completamente o contrário e irei explicar o porque. Umas das vantagens que o sistema da Microsoft tem sobre o Linux é sua praticidade, e isso não se pode negar. Ao tentar instalar um programa, ao clicar duas vezes em cima de seu executável, todo o processo é intuitivo e praticamente automático, não necessitando que o usuário tenha um conhecimento elevado para que o software desejado seja instalado com sucesso. No Linux não é diferente, porém, em alguns casos, os quais não são raros, o processo de instalação demanda um conhecimento um pouco maior do usuário final, principalmente se o único caminho para esta tarefa for as tão temidas linhas de comando.
+
+Logo, quando falamos de Linux para Seres Humanos, queremos tocar neste ponto, devemos ser defensores do Linux sim, e quando digo defensores quero dizer pessoas que não usam somente, mas que ensinam e recomendam. Toda via, devemos sempre indicar Distros que realmente levarão o usuário a ter uma experiência confortável, ou em outras palavras, que o mesmo não se amedronte e acabe saindo do mundo OpenSorce para mergulhar novamente no mundo do software proprietário. Por este motivo, que nós recomendamos o Ubuntu, uma distribuição que além de ser totalmente humanizada (ou pelo menos foi um dia :0 - Linux for Humam Beings), trás a seu usuário as facilidades que o mesmo já encontrava no Windows, ou seja, essa familiaridade de telas e manuseio o agradam, e convenhamos, nada melhor do que um “cliente” satisfeito.
+
+Portanto, fica a dica para quem deseja adentrar no mundo Linux, busque um Distro mais humanizado, não pense que escrever linhas de códigos o fará mais inteligente ou mais defensor do software livre, busque as facilidades, humanize cada vez mais esse sistema maravilhoso, livre, e totalmente criado para que nós possamos ter em casa algo feito para servir e ao mesmo tempo ensinar. Sei que este pequeno artigo tocará na ferida de alguns usuários fanáticos, porém, leia com atenção, reflita sobre as dificuldades dos usuários inexperientes.
+
+**Notas de rodapé**
+
+A filosofia do Software Livre encontra as suas raízes na livre troca de conhecimentos e de pensamentos que podem tradicionalmente ser encontrada no campo científico. [...] os programas de computador não são tangíveis e podem ser copiados sem perda. [...] No inicio dos anos 80, Richard M. Stallman foi o primeiro a formalizar esta maneira de pensar para o software sobre a forma de quatro liberdades: A liberdade de executar o software, para qualquer uso. A liberdade de estudar o funcionamento de um programa e de adaptá-lo às suas necessidades. A liberdade de redistribuir cópias. A liberdade de melhorar o programa e de tornar as modificações públicas de modo que a comunidade inteira beneficie da melhoria. [...] A "Definição do Open Source" é ela mesma derivada das "Linhas Directoras do Software Livre Debian", que derivam das quatro liberdades mencionadas acima. Consequentemente, as três definições descrevem as mesmas licenças; a "Licença Pública Geral GNU" (GPL) é a licença de base de todas as definições. (SEABRA, Rui Miguel Silva: O que é o Software Livre? (tradução do texto original de Georg C.F. Greve, Presidente da Free Software Foundation Europe). Disponível em: [http://ansol.org/filosofia](). Acesso em: 23 Agosto 2011)
+
+ - Linux

@@ -1,0 +1,111 @@
+# Site settings
+title:       Luiz Picolo
+email:       luizpicolo@gmail.com
+baseurl:     ""
+url:         "http://blog.luizpicolo.com.br"
+date_format: "%d de %b de %Y"
+
+# Google services
+google_verification:
+# Use either direct GA implementation or set up GTM account
+# - using both will skew your data (leave blank to not use at all)
+google_analytics:
+google_tag_manager:
+# Bing services
+bing_verification:
+
+# Optional features
+animated:             false
+show_related_posts:   false
+show_post_footers:    false
+show_social_icons:    true
+ajaxify_contact_form: true
+enable_mathjax: false
+extended_fonts: false
+enable_anchorjs: false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Facebook Comments plugin
+# (leave blank to disable Facebook Comments, otherwise set it to true)
+facebook_comments:
+facebook_appid:
+facebook_comments_number: 10
+
+# Social icons
+github_username: luizpicolo
+bitbucket_username: luizpicolo
+stackoverflow_id:
+twitter_username: luizpicolo_
+skype_username: luiz.picolo
+steam_nickname:
+google_plus_id:
+linkedin_username: luizpicolo
+angellist_username:
+medium_id:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Post sharing icons
+show_sharing_icons: true
+# Change to 'true' to enable individual icons
+share_facebook: true
+share_twitter: true
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
+
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Old'
+  share_buttons:
+    text:         'Compartilhe esta postagem!'
+    facebook:     'Compartilhar no Facebook'
+    twitter:      'Compartilhar no Twitter'
+    googleplus:   'Compartilhar no Google+'
+    linkedin:     'Compartilhar no LinkedIn'
+    digg:         'Compartilhar no Digg'
+    tumblr:       'Compartilhar no Tumblr'
+    reddit:       'Compartilhar no Reddit'
+    stumbleupon:  'Compartilhar no StumbleUpon'
+    hackernews:   'Compartilhar no Hacker News'
+  post:
+    updated:        'Atualizado'
+    minute_read:    'minutos de leitura'
+    related_posts:  'Postagens relacionadas'
+  index:
+    coming_soon: 'Coming soon...'
+  contact:
+    email:    'Email'
+    content:  'O que você gostaria de dizer?'
+    subject:  'Novo envio!'
+    submit:   'Say Hello'
+    ajax:
+      sending:  'enviando..'
+      sent:     'Mensagem enviada!'
+      error:    'Erro!'
+  thanks: 'Obrigado por me contactar. Entrarei em contato assim que possível.'
+  og_locale: 'pt_BR'
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink: /:year/:month/:day/:slug/
+excerpt_separator: <!--more-->
+paginate: 100
+sass:
+  compressed: true
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  # https://github.com/jekyll/jekyll/issues/2938
+exclude: [vendor]
