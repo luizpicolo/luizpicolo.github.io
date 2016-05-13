@@ -12,9 +12,9 @@ Mina é escrito em Ruby, porém, não se limita apenas a esta linguagem, podendo
 
 Com o Ruby instalado, podemos instalar o Mina como uma gem normal. Para tanto, use o comando abaixo:
 
-```ruby
+{% highlight ruby %}
 gem install mina
-```
+{% endhighlight %}
 
 ou adicione em seu `Gemfile` e em seguida execute o `bundle install`
 
