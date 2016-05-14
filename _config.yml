@@ -94,10 +94,12 @@ text:
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 redcarpet:
   extensions: ["smart", "no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
 permalink: /:year/:month/:day/:slug/
-highlighter: true
 excerpt_separator: <!--more-->
 paginate: 100
 sass:
