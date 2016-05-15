@@ -1,16 +1,11 @@
-# Desenvolvimento com Frameworks: Bom ou Mau?
+---
+layout: post
+title:  "Desenvolvimento com Frameworks. Bom ou Mal?"
+date:   2013-05-05 07:11:14 -0400
+categories: frameworks
+---
 
-11/06/2013
-
-Summary
-----
-
-Normalmente não posto em meu site matérias de outros, porém, esse além de interessante, apresenta um ponto de vista que segue em paralelo as minhas convicções... 
-
-Body
-----
-
-OBS: Normalmente não posto em meu site matérias de outros, porém, esse além de interessante, apresenta um ponto de vista que segue em paralelo as minhas convicções.
+OBS: Normalmente não posto em meu site matérias de outros, porém, esse além de interessante, apresenta um ponto de vista que segue em paralelo as minhas convicções.<!--more-->
 
 **Conclusão**
 

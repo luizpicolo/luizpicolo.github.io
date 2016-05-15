@@ -1,16 +1,13 @@
-# Linux para Seres Humanos
-
-05/05/2014
-
-**Summary**
-
-Na “grande guerra” que acontece entre os Sistemas Operacionais, há entre os seus “combatentes” indivíduos que acreditam fielmente que o seu sistema é o melhor, o mais confiável e o mais estável. Neste contexto, estão presentes os usuários do Linux, os quais, dentro de seus próprios domínios, tentam definir qual a melhor distribuição. Desta forma, esse pequeno artigo vem de encontro a estes usuários, tentando demonstrar que não basta o sistema ser livre, tem que ser humanizado. 
-
-**Body**
+---
+layout: post
+title:  "Linux para Seres Humanos"
+date:   2014-05-05 07:11:14 -0400
+categories: Linux
+---
 
 **Texto escrito para publicação no WebInsider**
 
-Na “grande guerra” que acontece entre os Sistemas Operacionais, há entre os seus “combatentes” indivíduos que acreditam fielmente que o seu sistema é o melhor, o mais confiável e o mais estável. Neste contexto, estão presentes os usuários do Linux, os quais, dentro de seus próprios domínios, tentam definir qual a melhor distribuição. Desta forma, esse pequeno artigo vem de encontro a estes usuários, tentando demonstrar que não basta o sistema ser livre, tem que ser humanizado.
+Na “grande guerra” que acontece entre os Sistemas Operacionais, há entre os seus “combatentes” indivíduos que acreditam fielmente que o seu sistema é o melhor, o mais confiável e o mais estável. Neste contexto, estão presentes os usuários do Linux, os quais, dentro de seus próprios domínios, tentam definir qual a melhor distribuição. Desta forma, esse pequeno artigo vem de encontro a estes usuários, tentando demonstrar que não basta o sistema ser livre, tem que ser humanizado.<!--more-->
 
 Usuário não fanático do Linux a algum tempo, adentrei algumas vezes em discussões sobre qual o melhor Distro. Em alguns destes debates, usuários mais experientes defendiam certos tipos de sistema que realmente eram robustos, mas que, deixavam a desejar ao usuário final. Ao tentar instalar um programa ou mesmo escutar uma música, o indivíduo tinha que ir até o terminal e digital alguns códigos, os quais, eram copiados da internet ou simplesmente passados por usuários que, já a um determinado tempo, utilizavam este sistema em seu dia a dia. Nesta tarefa complicada de baixar e instalar, há os que defendiam que, o verdadeiro usuário deveria saber lidar com as linhas de código, ou até mesmo, saber o básico da programação em C para transpor os problemas que poderiam surgir no futuro.
 
@@ -26,5 +23,3 @@ Portanto, fica a dica para quem deseja adentrar no mundo Linux, busque um Distro
 **Notas de rodapé**
 
 A filosofia do Software Livre encontra as suas raízes na livre troca de conhecimentos e de pensamentos que podem tradicionalmente ser encontrada no campo científico. [...] os programas de computador não são tangíveis e podem ser copiados sem perda. [...] No inicio dos anos 80, Richard M. Stallman foi o primeiro a formalizar esta maneira de pensar para o software sobre a forma de quatro liberdades: A liberdade de executar o software, para qualquer uso. A liberdade de estudar o funcionamento de um programa e de adaptá-lo às suas necessidades. A liberdade de redistribuir cópias. A liberdade de melhorar o programa e de tornar as modificações públicas de modo que a comunidade inteira beneficie da melhoria. [...] A "Definição do Open Source" é ela mesma derivada das "Linhas Directoras do Software Livre Debian", que derivam das quatro liberdades mencionadas acima. Consequentemente, as três definições descrevem as mesmas licenças; a "Licença Pública Geral GNU" (GPL) é a licença de base de todas as definições. (SEABRA, Rui Miguel Silva: O que é o Software Livre? (tradução do texto original de Georg C.F. Greve, Presidente da Free Software Foundation Europe). Disponível em: [http://ansol.org/filosofia](). Acesso em: 23 Agosto 2011)
-
- - Linux

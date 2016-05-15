@@ -1,14 +1,11 @@
-# Experiência: 8 meses em home office.
+---
+layout: post
+title:  "Experiência: 8 meses em home office."
+date:   2014-09-26 07:11:14 -0400
+categories: homeoffice opiniôes
+---
 
-26/09/2014
-
-**Summary**
-
-Home office a cada dia se torna uma realidade mais palpável em nosso país. Empresas se voltam a esta forma de contratação para angariar talentos em outras localidades e também diminuir custos com logísticas. Porém, nem tudo são flores e, neste texto, quero apresentar um pouco da minha experiencia de 8 meses neste mundo do trabalho remoto. 
-
-**Body**
-
-Home office a cada dia se torna uma realidade mais palpável em nosso país. Empresas se voltam à esta forma de contratação para recrutar talentos em outras localidades e, consequentemente, diminuir custos com logísticas. Porém, nem tudo são flores e, neste texto, quero apresentar um pouco da minha experiencia de 8 meses neste mundo do trabalho remoto.
+Home office a cada dia se torna uma realidade mais palpável em nosso país. Empresas se voltam à esta forma de contratação para recrutar talentos em outras localidades e, consequentemente, diminuir custos com logísticas. Porém, nem tudo são flores e, neste texto, quero apresentar um pouco da minha experiencia de 8 meses neste mundo do trabalho remoto.<!--more-->
 
 Trabalhar em casa é um sonho de todos. Até hoje recebo vários spans afirmando que você pode trabalhar em casa e ganhar muito com isso. Realmente que, em alguns casos, há uma certa verdade e o indivíduo pode mesmo ganhar muito dinheiro. Mas ao nos imaginar-mos trabalhando em casa criamos uma bela visão de trabalho com descanso, a qual, em partes, não é verdade. Home office é, ou pelo menos deveria ser, igual a trabalhar alocado em um escritório, com todas suas variantes, regras e rotinas. Porém, existe uma diferença grande em tudo isso. Além do funcionário ter que seguir regras regidas de horários, ele também deve se adaptar com a rotina de sua casa com o trabalho. Não quero dizer que o trabalho em home office é desmerecedor ou que isso é impossível de ser feito, mas em grande parte do tempo vivemos uma ambiguidade complexa em que, estamos no trabalho, mas ao mesmo tempo em casa, tendo que seguir rotinas comuns de um ambiente corporativo. Claro, muitos vão dizer que o correto é se adaptar e criar rotinas, isso é bem verdade, mas as rotinas se mesclam, e se chocando umas com as outras. Logo, devemos pensar bem nisso antes de assumir determinado caminho.
 
@@ -25,6 +22,3 @@ Portanto, fica a dica para quem quer trabalhar home office. Não tive um experie
 Concluo portanto dizendo para você caro leito que avalie tudo antes de pensar que, home office é sobre tudo, uma vida de descanso. Pense em tudo que disse e, sobre tudo, seja feliz. Não importa se trabalhando em casa ou em um empresa, tenha foco na sua felicidade e no ser humano que você é.
 
 Recomendo um bom texto, que não tem nada haver com o tema deste, mas fala sobre o stress no mundo da programação. [Stress literalmente deixa os programadores loucos (e a Síndrome do Impostor)](https://www.linkedin.com/today/post/article/20140911044818-57651957-stress-literalmente-deixa-os-programadores-loucos-e-a-s%C3%ADndrome-do-impostor)
-
- - Opiniões
- - Home Office 

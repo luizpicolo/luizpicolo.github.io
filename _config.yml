@@ -48,7 +48,7 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: true
+show_sharing_icons: false
 share_facebook: true
 share_twitter: true
 share_googleplus: true

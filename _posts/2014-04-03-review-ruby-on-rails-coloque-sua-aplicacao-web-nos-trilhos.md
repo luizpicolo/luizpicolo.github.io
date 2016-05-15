@@ -1,18 +1,15 @@
-# Review - Ruby on Rails: coloque sua aplicação web nos trilhos
+---
+layout: post
+title:  "Review - Ruby on Rails: coloque sua aplicação web nos trilhos"
+date:   2014-04-03 07:11:14 -0400
+categories: Ruby on Rails Frameworks Ruby Review Livros
+---
 
-03/04/2014
-
-**Summary**
-
-Após direcionar, como programador, o curso de meus esforços para o aprendizado de Ruby e Ruby on Rails, o qual falo pouco neste texto, imediatamente enviei um e-mail para um de meus professor no Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul, pedindo algumas referências sobre a linguagem e o framework, e que, se possível em português, pois meu inglês, no momento que escreve este texto, ainda esta em baixo nível. Ele me enviou vários links, alguns em inglês e outro de um livro da Casa do Código, o Ruby on Rails: coloque sua aplicação web nos trilhos o qual faço um review neste texto. 
-
-**Body**
-
-Após direcionar, como programador, o curso de meus esforços para o aprendizado de [Ruby](https://www.ruby-lang.org/pt/) e [Ruby on Rails](http://www.rubyonrails.com.br/), o qual falo pouco neste [texto](http://luizpicolo.com.br/2014/03/27/a-resposta-que-ecoou-com-mais-veemencia-foi-ruby/#.UzsnNFRdVRg), imediatamente enviei um e-mail para um de meus professores no [Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul](http://www.ifms.edu.br/), pedindo algumas referências sobre a linguagem e o framework, e que, se possível em português, pois meu inglês, infelizmente, no momento que escreve este texto ainda esta em baixo nível. Ele me enviou vários links, alguns em inglês e outro de um livro da [Casa do Código](http://www.casadocodigo.com.br/%E2%80%8E), o [Ruby on Rails: coloque sua aplicação web nos trilhos](http://www.casadocodigo.com.br/products/livro-ruby-on-rails) o qual faço um review neste texto.
+Após direcionar, como programador, o curso de meus esforços para o aprendizado de [Ruby](https://www.ruby-lang.org/pt/) e [Ruby on Rails](http://www.rubyonrails.com.br/), o qual falo pouco neste [texto](http://luizpicolo.com.br/2014/03/27/a-resposta-que-ecoou-com-mais-veemencia-foi-ruby/#.UzsnNFRdVRg), imediatamente enviei um e-mail para um de meus professores no [Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul](http://www.ifms.edu.br/), pedindo algumas referências sobre a linguagem e o framework, e que, se possível em português, pois meu inglês, infelizmente, no momento que escreve este texto ainda esta em baixo nível. Ele me enviou vários links, alguns em inglês e outro de um livro da [Casa do Código](http://www.casadocodigo.com.br/%E2%80%8E), o [Ruby on Rails: coloque sua aplicação web nos trilhos](http://www.casadocodigo.com.br/products/livro-ruby-on-rails) o qual faço um review neste texto.<!--more-->
 
 O livro, para quem é iniciante e tem poucas noções de Rails mas uma base de orientação a objeto e arquitetura de software é bem interessante. Nesta última versão o autor aborda o Rails 4, o qual, em relação ao livro, se torna um diferencial, mesmo que as mudanças na versão do framework não o tenham alterado de forma geral, pois a grande maioria ainda continuava no Rails 3.
 
-De cara o autor [Vinicius B. Fuentes](https://github.com/vinibaggio), explana em poucos parágrafos sobre o Rails e algumas “filosofias” que o frameowk traz, como: 
+De cara o autor [Vinicius B. Fuentes](https://github.com/vinibaggio), explana em poucos parágrafos sobre o Rails e algumas “filosofias” que o frameowk traz, como:
 
 > DRY - "Don't Repeat Yourself" - sugere que escrever o mesmo código várias vezes é uma coisa ruim.
 
@@ -37,9 +34,3 @@ Em relação aos testes frisasse que eles não serão abordados no livro, pois, 
 > A comunidade de Ruby e Rails é bastante envolvida em open source e se envolver em um projeto é uma [...] forma de, além de contribuir, aprender com outros desenvolvedores. A leitura de código também é encorajada. Uma ótima maneira é procurar sua gem favorita no GitHub [http://www.github.com]() e navegar pelo código fonte.
 
 Portanto, além de um bom conteúdo, a casa do código fez um ótimo trabalho na preparação e acabamento. Logo, este livro é recomendado para as pessoas que desejam iniciar com Rails. Caso esse seja seu perfil, não perca tempo, compre o mesmo e adentre aos estudos, pois a linguagem Ruby juntamente com o Framework Rails crescem a cada dia e você não pode deixar esta oportunidade passar.
-
-* Ruby on Rails
-* Frameworks
-* Ruby
-* Review
-* Livros 
