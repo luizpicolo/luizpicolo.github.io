@@ -14,7 +14,7 @@ Sou licenciado em História pela Universidade Federal de Mato Grosso do Sul - UF
 Atuo normalmente como WebDeveloper (Programador Web), mas a curiosidade me levou a trabalhar em diversas áreas tais como: WebDesigner e WebStandart. A aproximadamente desde 2007 trabalho com desenvolvimento web, porém profissionalmente a mais ou menos desde 2008. Comecei a criar sites, ou como eu gosto de chamar, Projetos Web, inicialmente por curiosidade, hoje, busco a cada dia um aperfeiçoamento das variadas técnicas de programação que o mercado exige. Me considero um autodidata, porém, devo lembrar que muitos me ajudaram nesta caminha.
 
 Link para meu currículo profissional: [Currículo](https://github.com/luizpicolo/curriculo/blob/master/README.md)
-Link para meu currículo lattes:[ Currículo Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4442275P6)
+Link para meu currículo lattes:[ Currículo Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4442275P6  )
 
 ## Interesses profissionais.
 
