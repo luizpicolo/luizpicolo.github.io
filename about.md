@@ -7,14 +7,14 @@ tags: about
 
 ## Acadêmico
 
-Sou licenciado em História pela Universidade Federal de Mato Grosso do Sul - UFMS (2011) / Campus de Nova Andradina - CPNA. Atualmente sou graduando em Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - TADS - IFMS (2012) / Campus de Nova Andradina.
+Sou licenciado em História pela Universidade Federal de Mato Grosso do Sul - UFMS (2011) / Campus de Nova Andradina - CPNA. Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - TADS - IFMS (2012) / Campus de Nova Andradina.
 
 ## Profissional
 
 Atuo normalmente como WebDeveloper (Programador Web), mas a curiosidade me levou a trabalhar em diversas áreas tais como: WebDesigner e WebStandart. A aproximadamente desde 2007 trabalho com desenvolvimento web, porém profissionalmente a mais ou menos desde 2008. Comecei a criar sites, ou como eu gosto de chamar, Projetos Web, inicialmente por curiosidade, hoje, busco a cada dia um aperfeiçoamento das variadas técnicas de programação que o mercado exige. Me considero um autodidata, porém, devo lembrar que muitos me ajudaram nesta caminha.
 
-Link para meu currículo profissional: Currículo
-Link para meu currículo lattes: Currículo Lattes
+Link para meu currículo profissional: [Currículo](https://github.com/luizpicolo/curriculo/blob/master/README.md)
+Link para meu currículo lattes:[ Currículo Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4442275P6)
 
 ## Interesses profissionais.
 
@@ -26,7 +26,7 @@ O objetivo do meu trabalho é conquistar a atenção das pessoas. Cada pequeno e
 
 ## Perfils na web
 
-Linkedin: http://www.linkedin.com/in/luizpicolo
-Facebook: http://www.fb.me/luizpicolo
-Twitter: http://www.twitter.com/luizpicolo_
-Vimeo: http://www.vimeo.com/luizpicolo
+Linkedin: [http://www.linkedin.com/in/luizpicolo](http://www.linkedin.com/in/luizpicolo)
+Facebook: [http://www.fb.me/luizpicolo](http://www.fb.me/luizpicolo)
+Twitter: [http://www.twitter.com/luizpicolo](http://www.twitter.com/luizpicolo_)
+Vimeo: [http://www.vimeo.com/luizpicolo](http://www.vimeo.com/luizpicolo)

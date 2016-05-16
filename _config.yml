@@ -93,6 +93,7 @@ text:
   og_locale: 'pt_BR'
 
 # Build settings
+locales: pt
 markdown: kramdown
 kramdown:
   input: GFM
