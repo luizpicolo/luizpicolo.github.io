@@ -84,7 +84,7 @@ text:
     email:    'Email'
     content:  'O que você gostaria de dizer?'
     subject:  'Novo envio!'
-    submit:   'Say Hello'
+    submit:   'Diga olá'
     ajax:
       sending:  'enviando..'
       sent:     'Mensagem enviada!'
