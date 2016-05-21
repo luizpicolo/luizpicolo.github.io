@@ -241,7 +241,8 @@ ou
 ```ruby
 mina staging deploy
 ```
-# Conclusão
+
+## Conclusão
 
 Se vocẽ seguiu todos os passos citados acima sua aplicação poderá ser acessada em seu domínio principal. Lembrando que seu servidor deve estar configurado corretamente.
 
