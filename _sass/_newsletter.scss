@@ -1,0 +1,18 @@
+.newsletter {
+  border: 1px solid rgb(221, 221, 221);
+  text-align: center;
+  padding: 10px;
+
+  input[type="text"]{
+    width: auto !important;
+    text-align: center;
+  }
+
+  input[type="submit"]{
+    border: 1px solid rgb(221, 221, 221);
+    background: rgb(255, 255, 255) none repeat scroll 0% 0%;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+}
