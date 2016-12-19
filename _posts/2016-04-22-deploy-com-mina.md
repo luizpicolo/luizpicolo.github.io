@@ -5,6 +5,8 @@ date:   2016-04-22 07:11:14 -0400
 categories: css html css3 html5
 ---
 
+**Observação: ** Neste tutorial foi utilizada a versão 0.3.8
+
 [Mina](http://nadarei.co/mina/) é uma ferramenta que permite criar e executar scripts para o gerenciamento de implantações em servidores via SSH. Ao contrário de outras ferramentas semelhantes, como o [Capistrano](http://capistranorb.com/) ou [Vlad](https://github.com/seattlerb/vlad), Mina cria somente uma sessão SSH para cada deploy em execução, tornando seu deploy mais eficiente.<!--more-->
 Mina é escrito em Ruby, porém, não se limita apenas a esta linguagem, podendo ser usando para qualquer tipo de implantação, possuindo apenas e tão somente como restriçao o uso de SSH no servidor.
 
