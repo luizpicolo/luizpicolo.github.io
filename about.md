@@ -7,7 +7,7 @@ tags: about
 
 ## Acadêmico
 
-Sou licenciado em História pela Universidade Federal de Mato Grosso do Sul - UFMS (2011) / Campus de Nova Andradina - CPNA. Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - TADS - IFMS (2015) / Campus de Nova Andradina.
+Sou licenciado em História pela Universidade Federal de Mato Grosso do Sul - UFMS (2011) / Campus de Nova Andradina - CPNA. Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul - TADS - IFMS (2015) / Campus de Nova Andradina. Atualmente sou mestrando em computação aplicada pela UFMS (2017) / Campus de Campo Grande / Mato Grosso do Sul
 
 ## Profissional
 
