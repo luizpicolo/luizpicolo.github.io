@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: luizpicolo.com.br
+Token: 24de161ac7db1d5a86112a2f42bfad0aabe0130f498281177b4c5a8e95d2bf6b
