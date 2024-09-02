@@ -1,5 +1,15 @@
 {
-    "names": {
-        "luizpicolo": "5e5d8d512921f51b0dfd6bc524abf4c9c7dea5274b2e807343908001397f1cd8"
-    }
-} 
+  "names": {
+    "_": "5e5d8d512921f51b0dfd6bc524abf4c9c7dea5274b2e807343908001397f1cd8",
+    "luizpicolo": "5e5d8d512921f51b0dfd6bc524abf4c9c7dea5274b2e807343908001397f1cd8"
+  },
+  "relays": {
+    "5e5d8d512921f51b0dfd6bc524abf4c9c7dea5274b2e807343908001397f1cd8": [
+      "wss://saltivka.org/",
+      "wss://relay.mostr.pub/",
+      "wss://nos.lol/",
+      "wss://relay.damus.io/",
+      "wss://relay.nostr.band/",
+      "wss://nostr.bitcoiner.social/"
+    ]
+  }
